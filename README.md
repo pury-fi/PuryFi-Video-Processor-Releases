@@ -1,2 +1,2 @@
 # PuryFi-Video-Processor-Releases
-Executeables from the PuryFi-Video-Processor project
+Executables of the PuryFi's Video Processor app
